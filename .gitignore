@@ -1,0 +1,17 @@
+# Folder hasil build
+build/
+dist/
+out/
+
+# File hasil build binary
+*.exe
+*.apk
+*.aab
+*.class
+*.o
+*.so
+
+# IDE/Editor cache
+.vscode/
+.idea/
+*.iml
