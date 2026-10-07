@@ -15,3 +15,6 @@ out/
 .vscode/
 .idea/
 *.iml
+
+.dart_tool/
+.flutter-plugins-dependencies
